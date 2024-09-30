@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+  <to>User</to>
+  <from>Localhost</from>
+  <heading>Reminder</heading>
+  <body>This is a simple XML page served on localhost.</body>
+</note>
