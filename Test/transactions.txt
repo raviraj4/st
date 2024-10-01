@@ -1,0 +1,4 @@
+expense,2nd june,shirts,2000.0
+expense,3rd may,rent,30000.0
+expense,13 June,dates,12000.0
+expense,30,wedding ceremony,80000.0

@@ -1,0 +1,1 @@
+expense,2004-08-01,food travel,12000.0
